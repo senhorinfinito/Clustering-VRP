@@ -9,7 +9,7 @@ In this project we have optimise the vehicle routine problem by using clustering
 
 below image shows the output after opimising the solution. 
 
-![image]()
+![image](./img/cluster-opt.jpg)
 
 ## Code 
 
