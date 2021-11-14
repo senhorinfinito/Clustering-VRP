@@ -12,12 +12,6 @@ You check [Map](https://www.google.com/maps/d/u/0/edit?hl=en&mid=1xqv4ol9tMDW2li
 
 ## Code 
 
-* Clustering Code- [file](https://github.com/senhorinfinito/Clustering_K-Mean/blob/main/KMEAN.ipynb)
-* Geographical Data - [file](https://github.com/senhorinfinito/Clustering_K-Mean/blob/main/latitude_longitude404.py)
-* Distance Matrix Calculations - [file](https://github.com/senhorinfinito/Clustering_K-Mean/blob/main/dist_cal.py)
-* Point Selection - [file](https://github.com/senhorinfinito/Clustering_K-Mean/blob/main/point_movement.py)
-* VRP - [file](https://github.com/senhorinfinito/Clustering_K-Mean/blob/main/vrp_cluster.py)
- 
 ## Data
 
 Our main goal is to design a cluster which is suitable for vehicle capacity as well as production capacity of individual  manufacturers. 
