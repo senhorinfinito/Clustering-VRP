@@ -1,16 +1,22 @@
 # Clustering - VRP
 ![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/Clustering_K-Mean.svg?cache=remove)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 
-This project is a combination of Clustering & Vehicle Routine Problem. 
-
-This project is done under the guidance of [MKP Naik](https://www.linkedin.com/in/meghavatu-krishna-prasanna-naik-ba000a204/). He contributed most of VRP part of project.
+In this project we have optimise the vehicle routine problem by using clustering. Also founded a ```distance-based facilit allocation``` for the problem. This project is done under the guidance of [MKP Naik](https://www.linkedin.com/in/meghavatu-krishna-prasanna-naik-ba000a204/). He contributed most of VRP part of project.
 
 ## Destination of project
 
-You check [Map](https://www.google.com/maps/d/u/0/edit?hl=en&mid=1xqv4ol9tMDW2li4YurgjUJK2hjFQtwod&ll=25.321490981384706%2C82.90753285000001&z=10) for output. 
+below image shows the output after opimising the solution. 
+
+![image]()
 
 ## Code 
+
+ - ```latitude_longitude404.py``` :-  Used google geocoding to findout geographical coordinate.
+ - ```dist_cal_404.py``` :- Calculating Eucludian distance between two points. Also create a distance matrix. 
+ - ```point_movement.py``` :- Helps to findout nearest crowded exsiting point from cluster centriod to allocate atctual location of facility. 
+ - ```vrp_cluster.py``` :- Used google OR-Tools to findout optimised solution for the problem. 
 
 ## Data
 
@@ -26,8 +32,4 @@ Based on that I managed to get data for clustering analysis is listed below:
 
 
 ### Note
-All data has  not uploaded on github due to security purpose.
-
-## Badges
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+All data has  not uploaded on github due to publication issue.
